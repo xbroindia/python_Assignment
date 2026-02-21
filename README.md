@@ -1,5 +1,5 @@
-#python_Assignment1
-This Python program:
+#python_Assignment1:
+This Python program
 Takes two numbers as input from the user.
 Performs the following mathematical operations:
 Addition
@@ -14,7 +14,7 @@ Arithmetic operators (+, -, *, /)
 Print statements
 Basic error handling (optional if you added division by zero check)
 
-#python_Assignment2
+#python_Assignment2:
 This program asks the user to enter their first name and last name using the input() function.
 It then combines both names into a single variable called full_name using string concatenation.
 After creating the full name, the program prints a personalized greeting message using the print() function.
